@@ -64,15 +64,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - `wmi` for hardware monitoring on Windows.
 - `psutil` for system performance metrics.
 - `sklearn` for machine learning models.
-```
 
----
-
-### **Notes**:
+## Notes:
 - Replace `yourusername` in the GitHub URL with your actual GitHub username.
 - Ensure that the `requirements.txt` file is created with the necessary dependencies (e.g., `psutil`, `wmi`, `pandas`, `scikit-learn`, `matplotlib`).
 
-### **requirements.txt Example**:
+## requirements.txt:
 ```txt
 psutil
 wmi
