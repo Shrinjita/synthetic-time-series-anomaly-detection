@@ -1,0 +1,6 @@
+psutil
+wmi
+pandas
+scikit-learn
+matplotlib
+pywin32
