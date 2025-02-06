@@ -52,9 +52,7 @@ This repository provides a Python-based implementation for generating synthetic 
 ├── data_generation.ipynb       # Jupyter notebook for data generation
 ├── anomaly_detection.ipynb     # Jupyter notebook for anomaly detection
 ├── requirements.txt            # Project dependencies
-├── hardware_monitor_data.csv   # Generated time series data (generated during runtime)
-├── README.md                   # Project overview and instructions
-└── LICENSE                     # License information (optional)
+
 ```
 
 ## License
